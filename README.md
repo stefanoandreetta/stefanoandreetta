@@ -1,6 +1,6 @@
 # 👋 Ciao! I'm Stefano Andreetta
 
-👨‍💻 I'm an italian tech lover with 10+ years of experience in software development, business analysis, and IT governance.
+👨‍💻 I'm an italian tech lover with 10+ years of experience in software development, business analysis, and project management.
 
 ## 💼 Projects
 - Work in progress...
