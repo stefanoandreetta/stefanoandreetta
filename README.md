@@ -2,7 +2,7 @@
 
 👨‍💻 I'm an italian tech lover with 10+ years of experience in software development, now working as business analyst and project manager.
 
-## 🖥️ Personal projects portfolio 📱
+## 🖥️ Personal projects portfolio
 
 - **SAND Digital Catalog**: a digital showcase for professionals and small businesses, developed using Flutter (Dart) framework  
   URL: <a href="https://www.sandapps.net/digital-catalog" target="_blank">sandapps.net/digital-catalog</a>
