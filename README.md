@@ -5,7 +5,7 @@
 ## 💼 Personal projects portfolio
 
 - **SAND Digital Catalog**: a digital showcase for professionals and small businesses, developed using Flutter (Dart) framework 
-  URL: https://www.sandapps.net/digital-catalog
+### URL: https://www.sandapps.net/digital-catalog
 
 - **Text Alarm**: a native mobile app, developed both for iOS (UIKit) and Android (Kotlin) platform, that allows users to manage their home alarm system using predefined text templates
   Android URL: https://play.google.com/store/apps/details?id=it.sand.smsalarm
